@@ -21,7 +21,8 @@ Initial ERC-721 Use Cases:
 - 6)  Mobile Ethereum Decentralized Exchange (DEX)
 
 The iqyu foundation will be a self-governing distributed autonomous
-organization (DAO);
+organization (DAO)
+
 [https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)).
 
 Using blockchain technology and smart contracts, new ideas will be
@@ -31,11 +32,6 @@ deliberation and modification. After a set time, the modified proposal is
 then again up-voted or down-voted and if a high enough percentage of
 up-votes occurs, the proposal becomes active policy. 
 
-\[\_\_\_\_\] 
-
-![](docs//media/RightOfExpatriation.png)
-
-![](docs//media/HierarchyOfCitizenshipStatus.jpg)
 
 **"You never change things by fighting the existing reality. To change
 something, build a new model that makes the existing model obsolete."** **--- Buckminster Fuller**
