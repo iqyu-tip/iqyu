@@ -6,28 +6,24 @@
 
 **...the middleman is dead...**
 
-Initial Use Cases:
+Initial ERC-721 Use Cases:
 
 - 1)  Safety Deposit Blox 
-of growth itself. (Our current economy is operating under the 
-illusion that growth is necessary for continued existence, driven by 
-greed and subsequent excessive wealth accumulation.)
 
-- 2)  The economy is sustainable and will eventually reach a somewhat 
-static equilibrium similar to David Latimer's famous bottle garden 
-([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
+- 2)  Peer to Peer (P2P) Parking
 
-- 3)  Due to changes in population, efficiencies, innovations, ecology, 
-climate, etc., economic expansions and contractions will occur and 
-none of these natural changes and fluctuations should ever be feared.
+- 3)  Driveway Rental
 
-- 4)  Knowing that Earth has a somewhat fixed mass and fixed energy flux, 
-a sustainable, quasi-static equilibrium must eventually occur in an 
-organically growing, somewhat closed system.
+- 4)  IPFS Node Creation & Pinning
+
+- 5)  Ticketing
+
+- 6)  Mobile Ethereum Decentralized Exchange (DEX)
 
 The iqyu foundation will be a self-governing distributed autonomous
-organization (DAO)
+organization (DAO);
 [https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)).
+
 Using blockchain technology and smart contracts, new ideas will be
 posted to the DAO and up or down voted. Once an idea gets a high enough
 percentage of votes, it is transformed into a proposal for further analysis,
@@ -48,18 +44,4 @@ something, build a new model that makes the existing model obsolete."** **--- Bu
 <br>
 <br>
 
-#### 0. MISSION STATEMENT
-
-The purpose of this License is to make a manual, textbook, or other
-functional and useful document \"free\" in the sense of freedom: to
-assure everyone the effective freedom to copy and redistribute it, with
-or without modifying it, either commercially or noncommercially.
-Secondarily, this License preserves for the author and publisher a way
-to get credit for their work, while not being considered responsible for
-modifications made by others.
-
-This License is a kind of \"copyleft\", which means that derivative
-works of the document must themselves be free in the same sense. It
-complements the GNU General Public License, which is a copyleft license
-designed for free software.
-
+#### MISSION STATEMENT
