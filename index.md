@@ -6,6 +6,7 @@
 
 **...the middleman is dead...**
 
+
 Initial ERC-721 Use Cases:
 
 - 1)  Safety Deposit Blox 
@@ -20,24 +21,11 @@ Initial ERC-721 Use Cases:
 
 - 6)  Mobile Ethereum Decentralized Exchange (DEX)
 
-The iqyu foundation will be a self-governing distributed autonomous
-organization (DAO)
-
-[https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)).
-
-Using blockchain technology and smart contracts, new ideas will be
-posted to the DAO and up or down voted. Once an idea gets a high enough
-percentage of votes, it is transformed into a proposal for further analysis,
-deliberation and modification. After a set time, the modified proposal is
-then again up-voted or down-voted and if a high enough percentage of
-up-votes occurs, the proposal becomes active policy. 
-
 
 **"You never change things by fighting the existing reality. To change
 something, build a new model that makes the existing model obsolete."** **--- Buckminster Fuller**
 
 **"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
-<br>
 <br>
 
 #### MISSION STATEMENT
