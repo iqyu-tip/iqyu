@@ -9,23 +9,24 @@
 **...the middleman is dead...**
 
 
-Initial ERC-721 Use Cases:
+Initial ERC-721 use cases:
 
-- 1)  Safety Deposit Blox 
+- 1)  Safety Deposit Blox.
 
-- 2)  Peer to Peer (P2P) Parking
+- 2)  Peer-to-Peer (P2P) Parking.
 
-- 3)  Driveway Rental
+- 3)  Driveway Rental.
 
-- 4)  IPFS Node Creation & Pinning
+- 4)  IPFS Node Creation & Pinning.
 
-- 5)  Ticketing
+- 5)  Ticketing.
 
-- 6)  Mobile Ethereum Decentralized Exchange (DEX)
+- 6)  Mobile Ethereum Decentralized Exchange (DEX).
 
 
 **"You never change things by fighting the existing reality. To change
 something, build a new model that makes the existing model obsolete."** **--- Buckminster Fuller**
 
 **"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
+<br>
 <br>
