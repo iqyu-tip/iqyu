@@ -2,6 +2,9 @@
 <meta name="description" content="iqyu is a mobile web3 platform that tokenizes spacetime by utilizing the Ethereum blockchain and the interplanetary file system (IPFS).">
 <meta name="author" content="Steven Adler and Yusuf Jafry">
 
+#### MISSION STATEMENT
+<br>
+
 *iqyu is a mobile web3 platform that tokenizes spacetime by utilizing the Ethereum blockchain and the interplanetary file system (IPFS).*
 
 **...the middleman is dead...**
@@ -27,5 +30,3 @@ something, build a new model that makes the existing model obsolete."** **--- Bu
 
 **"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
 <br>
-
-#### MISSION STATEMENT
